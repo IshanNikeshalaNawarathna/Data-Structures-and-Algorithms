@@ -12,6 +12,7 @@
         <module>linear-search</module>
         <module>quick-sort</module>
         <module>merge-sort</module>
+        <module>bubble-sort</module>
     </modules>
 
     <properties>
