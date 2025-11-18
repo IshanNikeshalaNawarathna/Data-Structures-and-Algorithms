@@ -9,7 +9,6 @@ public class BubbleSort {
         for (int number : arr){
             System.out.print(number + " ");
         }
-        
     }
 
     private static void bubbleSort(int[] arr) {
